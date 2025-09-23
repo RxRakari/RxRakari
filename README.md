@@ -7,13 +7,16 @@
 - Languages: JavaScript, Python, HTML, CSS
 - Tools & Frameworks: Node.js, Express, Git, GitHub, Unity (basic), Pygame
 - Other: UI/UX fundamentals, version control, REST APIs
+ 
+📂 Featured Projects
 
- 📂 Featured Projects
+- 📈 [**Ritmo Habit Tracker**]((https://github.com/RxRakari/v0-ritmo-habit-tracker)) 
+  Track and build healthy habits with this web app.
+  
+🔭 I’m currently working on ...
+
 - 🔧 [**Craftr CV Builder**](https://github.com/Rakari-dev/craftr-cv-builder)  
   A clean and easy-to-use CV generator with customizable templates.
-  
-- 📈 [**Habit Tracker**](https://github.com/Rakari-dev/habit-tracker)  
-  Track and build healthy habits with this web app.
 
 - 🚕 [**Taxi App (Prototype)**](https://github.com/Rakari-dev/taxiapp)  
   A basic taxi service frontend prototype.
