@@ -12,6 +12,7 @@
 
 - 📈 [**Ritmo Habit Tracker**](https://github.com/RxRakari/v0-ritmo-habit-tracker)
   Track and build healthy habits with this web app.
+  https://ritmo-habit-tracker.vercel.app/
   
 🔭 I’m currently working on ...
 
