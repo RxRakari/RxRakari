@@ -10,9 +10,11 @@
  
 📂 Featured Projects
 
-- 📈 [**Ritmo Habit Tracker**](https://github.com/RxRakari/v0-ritmo-habit-tracker)
+- 📈 [**Ritmo Habit Tracker**](https://github.com/RxRakari/ritmo-habit-tracker-2)
   Track and build healthy habits with this web app.
   https://ritmo-habit-tracker.vercel.app/
+
+- [**Scriba AI**] 
   
 🔭 I’m currently working on ...
 
