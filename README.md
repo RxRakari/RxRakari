@@ -14,7 +14,9 @@
   Track and build healthy habits with this web app.
   https://ritmo-habit-tracker.vercel.app/
 
-- [**Scriba AI**](https://github.com/RxRakari/Scriba-Ai.git)
+- [**Scriba AI**](https://github.com/RxRakari/Scriba-Ai.git) 
+  Jot dow, ask a question keep the flow going.
+  https://scriba-ai-blush.vercel.app/
   
 🔭 I’m currently working on ...
 
