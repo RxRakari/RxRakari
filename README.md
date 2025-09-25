@@ -10,7 +10,7 @@
  
 📂 Featured Projects
 
-- 📈 [**Ritmo Habit Tracker**](https://github.com/RxRakari/ritmo-habit-tracker-2)
+- 📈 [**Ritmo Habit Tracker**](https://github.com/RxRakari/ritmo-habit-tracker-2.git)
   Track and build healthy habits with this web app.
   https://ritmo-habit-tracker.vercel.app/
 
