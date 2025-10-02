@@ -12,11 +12,11 @@
 
 - 📈 [**Ritmo Habit Tracker**](https://github.com/RxRakari/ritmo-habit-tracker-V2.git)
   Track and build healthy habits with this web app.
-  https://ritmo-habit-tracker.vercel.app/
+   https://ritmo-delta.vercel.app/
 
 - [**Scriba AI**](https://github.com/RxRakari/Scriba-Ai.git) 
   Jot dow, ask a question keep the flow going.
-  https://scriba-ai-blush.vercel.app/
+   https://scriba-ai-blush.vercel.app/
   
 🔭 I’m currently working on ...
 
